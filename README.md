@@ -1,4 +1,4 @@
-# Auto-MPG-Prediction-
+# Auto-MPG-Prediction- Machine Learning Algorithm
 The Auto-MPG dataset for regression analysis. The target (y) is defined as the miles per gallon (mpg) for 392 automobiles.
 
  The data contains the MPG (Mile Per Gallon) variable which is continuous data and tells us about the efficiency of fuel consumption of a vehicle in the 70s and 80s.
